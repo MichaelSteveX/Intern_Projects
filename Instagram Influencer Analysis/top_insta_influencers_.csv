@@ -1,0 +1,201 @@
+﻿rank,channel_info,influence_score,influence_category,posts,followers,avg_likes,engagement_rate,new_post_avg_like,total_likes,country,joining_date
+1,instagram,50,High,8.31k,698m,327k,0.05%,327k,2.72b,United States,Feb-12
+2,cristiano,61,High,4.0k,670m,8.7m,1.30%,6.5m,34.80b,Portugal,May-12
+3,leomessi,47,High,1.45k,511m,6.8m,1.33%,4.4m,9.86b,Spain,Jun-13
+4,selenagomez,40,Medium,2.15k,415m,6.2m,1.49%,3.3m,13.33b,United States,Jul-13
+5,kyliejenner,42,Medium,7.36k,391m,8.3m,2.12%,2.4m,61.09b,United States,Nov-11
+6,therock,31,Medium,8.28k,390m,1.9m,0.49%,665.3k,15.73b,United States,Oct-12
+7,arianagrande,33,Medium,0.48k,372m,3.7m,0.99%,1.5m,1.78b,United States,Aug-11
+8,kimkardashian,31,Medium,6.58k,353m,3.5m,0.99%,2.9m,23.03b,United States,Jan-12
+9,beyonce,28,Medium,2.43k,308m,3.6m,1.17%,820k,8.75b,United States,Nov-12
+10,khloekardashian,26,Medium,4.78k,299m,2.4m,0.80%,926.9k,11.47b,United States,Aug-12
+11,nike,22,Low,1.67k,298m,329.0k,0.11%,181.8k,0.55b,United States,Nov-11
+12,justinbieber,24,Low,8.86k,292m,1.9m,0.65%,250k,16.83b,United States,Jul-11
+13,kendalljenner,30,Medium,0.59k,284m,5.5m,1.94%,1.1m,3.25b,United States,Jul-11
+14,taylorswift,29,Medium,0.70k,280m,5.2m,1.86%,4.5m,3.64b,United States,Oct-11
+15,natgeo,20,Low,31.3k,275m,302.2k,0.11%,159.3k,9.46b,United States,Nov-10
+16,virat.kohli,29,Medium,1.04k,274m,5.4m,1.97%,6.1m,5.62b,India,Jun-15
+17,jlo,21,Low,1.12k,246m,1.7m,0.69%,210k,1.90b,United States,Feb-13
+18,neymarjr,22,Low,6.02k,233m,2.7m,1.16%,1.9m,16.25b,Brazil,Mar-12
+19,nickiminaj,20,Low,6.61k,229m,2.1m,0.92%,1.0m,13.88b,United States,Jan-11
+20,kourtneykardash,19,Low,4.67k,215m,1.8m,0.84%,1.3m,8.41b,United States,May-12
+21,mileycyrus,18,Low,1.49k,210m,1.3m,0.62%,200k,1.94b,United States,Mar-13
+22,katyperry,16,Low,2.69k,201m,715.0k,0.36%,265.1k,1.92b,United States,Jun-13
+23,realmadrid,15,Low,19.1k,181m,996.2k,0.55%,310k,19.03b,Spain,Jan-13
+24,kevinhart4real,14,Low,9.77k,176m,522.0k,0.30%,115.2k,5.10b,United States,Jul-11
+25,zendaya,25,Low,3.5k,175m,5.8m,3.31%,4.8m,20.30b,United Kingdom,Sep-11
+26,iamcardib,18,Low,1.89k,164m,3.1m,1.89%,1.5m,5.86b,United States,Jul-14
+27,kingjames,15,Low,2.84k,157m,1.5m,0.96%,110k,4.26b,United States,Jan-12
+28,ddlovato,15,Low,0.07k,152m,1.9m,1.25%,363.4k,0.13b,United States,Jul-12
+29,badgalriri,19,Low,5.02k,149m,3.7m,2.48%,1.2m,18.57b,United States,Mar-12
+30,fcbarcelona,13,Low,26.3k,146m,1.2m,0.82%,706.3k,31.56b,Spain,Nov-12
+31,chrisbrownofficial,11,Low,7.91k,143m,463.2k,0.32%,255.9k,3.66b,United States,Mar-12
+32,champagnepapi,14,Low,0.66k,141m,1.7m,1.21%,1.3m,1.12b,United States,Dec-11
+33,k.mbappe,15,Low,1.44k,129m,2.5m,1.94%,1.6m,3.60b,Spain,Dec-16
+34,billieeilish,29,Medium,1.03k,125m,8.5m,6.80%,2.2m,8.76b,United States,Mar-12
+35,lalalalisa_m,23,Low,1.19k,106m,5.8m,5.47%,3.2m,6.90b,United States,Jun-18
+36,gal_gadot,11,Low,1.91k,106m,1.4m,1.32%,312.5k,2.67b,United States,Jan-12
+37,vindiesel,11,Low,2.19k,105m,1.4m,1.33%,482.3k,3.07b,United States,Apr-14
+38,narendramodi,15,Low,1.15k,99.6m,2.9m,2.91%,1.8m,3.34b,India,Nov-14
+39,nasa,10,Low,4.59k,98.4m,1.2m,1.22%,210k,5.51b,United States,Aug-13
+40,Shakira,9,Low,2.59k,95m,975.1k,1.03%,304.7k,2.53b,Mexico,Sep-12
+41,shraddhakapoor,11,Low,2.19k,94.9m,1.6m,1.69%,859.9k,3.50b,India,Jan-13
+42,priyankachopra,11,Low,4.01k,94.1m,1.6m,1.70%,802.9k,6.42b,United States,Jun-12
+43,nba,8,Low,97.5k,90.2m,370.8k,0.41%,20k,36.15b,United States,Jan-12
+44,jennierubyjane,18,Low,1.34k,89.3m,4.1m,4.59%,3.1m,5.49b,South Korea,Feb-18
+45,dualipa,12,Low,0.49k,88.7m,2.1m,2.37%,1.1m,1.03b,United Kingdom,Nov-11
+46,davidbeckham,10,Low,2.15k,88.5m,1.2m,1.36%,340.9k,2.58b,United Kingdom,Jun-12
+47,snoopdogg,7,Low,68.5k,88.4m,203.7k,0.23%,12k,13.95b,United States,Jan-11
+48,aliaabhatt,11,Low,2.20k,86.9m,1.8m,2.07%,1m,3.96b,India,Nov-12
+49,roses_are_rosie,19,Low,1.18k,84.3m,4.6m,5.46%,3.1m,5.43b,United States,Jun-18
+50,deepikapadukone,11,Low,0.65k,80.4m,1.6m,1.99%,1.5m,1.04b,India,Sep-13
+51,sooyaaa__,19,Low,1.29k,80.3m,4.5m,5.60%,2.1m,5.81b,South Korea,Jun-18
+52,katrinakaif,15,Low,1.14k,80.2m,3.1m,3.87%,1.5m,3.53b,India,Jul-16
+53,victoriassecret,6,Low,5.45k,79.8m,147.0k,0.18%,29.8k,0.80b,United States,Apr-11
+54,ronaldinho,8,Low,3.65k,78.2m,872.9k,1.12%,325.7k,3.19b,Brazil,Jan-14
+55,nehakakkar,10,Low,0.31k,78.1m,1.5m,1.92%,370.1k,0.47b,India,Oct-12
+56,bts.bighitofficial,18,Low,1.2k,78m,4.1m,5.26%,3.6m,4.92b,South Korea,Nov-15
+57,433_,8,Low,44.8k,77.7m,863.2k,1.11%,774.2k,38.67b,Netherlands,Nov-12
+58,raffinagita1717,7,Low,28.3k,76.8m,386.9k,0.50%,141k,10.95b,Indonesia,May-15
+59,gigihadid,13,Low,3.45k,75.9m,2.5m,3.29%,1.1m,8.63b,United States,Nov-11
+60,karimbenzema,8,Low,0.14k,75.2m,878.5k,1.17%,510k,0.12b,United States,Apr-14
+61,emmawatson,11,Low,0.45k,72.5m,1.9m,2.62%,756k,0.86b,United Kingdom,Jul-14
+62,beingsalmankhan,12,Low,1.57k,72.5m,2.2m,3.03%,693.9k,3.45b,India,Nov-14
+63,milliebobbybrown,18,Low,0.71k,72.3m,4.0m,5.53%,1.9m,2.84b,United States,Jun-16
+64,georginagio,12,Low,1.04k,72m,2.2m,3.06%,1.1m,2.29b,Spain,May-15
+65,justintimberlake,7,Low,0.21k,71.5m,600.4k,0.84%,189.4k,0.13b,United States,Feb-13
+66,karolg,15,Low,3.40k,71.1m,3.1m,4.36%,2.1m,10.54b,United States,Apr-12
+67,shawnmendes,16,Low,2.70k,70.3m,3.5m,4.98%,440k,9.45b,United States,Aug-12
+68,thv,55,High,0.15k,70.1m,15.4m,21.97%,7m,2.31b,South Korea,Dec-21
+69,jacquelinef143,9,Low,2.80k,70.1m,1.1m,1.57%,718.8k,3.08b,India,Sep-12
+70,willsmith,8,Low,2.48k,69.2m,897k,1.30%,50k,2.22b,United States,Apr-16
+71,anushkasharma,16,Low,1.32k,68.8m,3.4m,4.94%,3m,4.49b,India,Jul-12
+72,marcelotwelve,7,Low,3.29k,68.5m,690.9k,1.01%,143k,2.27b,Spain,May-12
+73,sergioramos,8,Low,2.89k,67.5m,1.1m,1.63%,557.9k,3.18b,Spain,Oct-14
+74,akshaykumar,10,Low,2.47k,66.5m,1.5m,2.26%,624.9k,3.71b,Indai,Jan-14
+75,mosalah,11,Low,1.13k,66.2m,1.8m,2.72%,1.1m,2.03b,United Kingdom,Aug-13
+76,manchesterunited,6,Low,36.4k,65.9m,381.8k,0.58%,241.6k,13.90b,United Kingdom,Aug-13
+77,psg,6,Low,19.5k,65.8m,500.5k,0.76%,32k,9.76b,France,Oct-12
+78,paulpogba,9,Low,1.57k,64.9m,1.4m,2.16%,462.6k,2.20b,France,Jan-16
+79,maluma,9,Low,0.42k,64.3m,1.2m,1.87%,696.3k,0.50b,Colombia,Apr-12
+80,marvel,6,Low,10.9k,64.2m,332.3k,0.52%,339.0k,3.62b,United States,Aug-12
+81,camila_cabello,11,Low,0.18k,63.5m,1.9m,2.99%,511k,0.34b,United States,Jan-12
+82,tomholland2013,23,Low,1.30k,62.9m,5.2m,8.27%,2.2m,6.76b,United Kingdom,May-12
+83,anitta,7,Low,0.48k,62.9m,855.5k,1.36%,426.2k,0.41b,Brazil,Mar-12
+84,dishapatani,10,Low,2.19k,61.6m,1.6m,2.60%,971.7k,3.50b,India,Aug-13
+85,ladygaga,9,Low,3.82k,61.6m,1.4m,2.27%,531.6k,5.35b,United States,Jun-12
+86,bellahadid,8,Low,1.07k,60.9m,1.1m,1.81%,1m,1.18b,United States,Dec-11
+87,leonardodicaprio,6,Low,2.01k,60m,395.5k,0.66%,107.6k,0.79b,United States,Sep-14
+88,juventus,5,Low,23.2k,60m,194.8k,0.32%,135.5k,4.52b,Italy,Jul-12
+89,travisscott,15,Low,3.34k,59.9m,3.0m,5.01%,2.6m,10.02b,United States,Jan-12
+90,zacefron,13,Low,0.71k,59.5m,2.3m,3.87%,762k,1.63b,United States,Mar-12
+91,chrishemsworth,14,Low,1.26k,58.8m,2.8m,4.76%,782k,3.53b,Australia,Apr-15
+92,blackpinkofficial,12,Low,2.05k,58.6m,2.1m,3.58%,1.3m,4.31b,South Korea,May-16
+93,kritisanon,7,Low,2.73k,58.5m,897.2k,1.53%,604.4k,2.45b,India,Jul-13
+94,stephencurry30,8,Low,1.50k,58.3m,1.1m,1.89%,1.2m,1.65b,United States,Mar-13
+95,michelleobama,7,Low,1.23k,57.7m,700.5k,1.21%,611.2k,0.86b,United States,Oct-16
+96,adele,21,Low,0.50k,57.6m,4.7m,8.16%,1.9m,2.35b,United Kingdom,Oct-15
+97,jokowi,6,Low,5.82k,57.6m,452.6k,0.79%,189.6k,2.63b,Indonesia,Nov-15
+98,robertdowneyjr,15,Low,0.61k,57.4m,3.0m,5.23%,1.1m,1.83b,United States,Oct-14
+99,hudabeauty,5,Low,3.1k,57.4m,186.4k,0.32%,16.8k,0.58b,United Arab Emirates,Apr-12
+100,ayutingting92,5,Low,12.8k,57m,147.3k,0.26%,56.3k,1.89b,Indonesia,Aug-13
+101,paulodybala,11,Low,1.56k,56.9m,1.8m,3.16%,1.4m,2.81b,Italy,May-13
+102,whinderssonnunes,10,Low,0.60k,56.6m,1.6m,2.83%,323.1k,0.96b,Brazil,Jan-13
+103,tatawerneck,8,Low,7.08k,56.2m,959.8k,1.71%,266.5k,6.80b,Brazil,Mar-12
+104,prillylatuconsina96,5,Low,7.92k,56.2m,372.4k,0.66%,131.8k,2.95b,Indonesia,Sep-12
+105,sunnyleone,7,Low,5.97k,56m,764.0k,1.36%,301.3k,4.56b,United States,Feb-12
+106,louisvuitton,4,Low,9.09k,56m,127.5k,0.23%,40.5k,1.16b,France,Jun-12
+107,j.m,95,Elite,0.005k,55.8m,24.3m,43.55%,5m,0.12b,South Korea,Dec-21
+108,haileybieber,11,Low,0.71k,55.7m,2.0m,3.59%,1.6m,1.42b,United States,Jul-11
+109,9gag,6,Low,39.4k,53.9m,672.6k,1.25%,248.6k,26.50b,Hong Kong,Nov-12
+110,lelepons,13,Low,2.74k,53.7m,2.4m,4.47%,1.7m,6.58b,United States,Jun-12
+111,larissamanoela,6,Low,6.33k,53.4m,579.6k,1.09%,259.4k,3.67b,Brazil,Jan-15
+112,zayn,22,Low,0.07k,52.9m,4.7m,8.88%,1.1m,0.33b,United States,Aug-15
+113,garethbale11,7,Low,1.09k,52.9m,763.0k,1.44%,681.3k,0.83b,United States,Nov-12
+114,cznburak,7,Low,2.50k,52.2m,815.8k,1.56%,383.3k,2.04b,Turkiye,Feb-13
+115,daddyyankee,6,Low,0.31k,51.9m,652.5k,1.26%,455.3k,0.20b,Puerto Rico,Apr-12
+116,nusr_et,7,Low,3.07k,51.8m,728.2k,1.41%,133.0k,2.24b,United Arab Emirates,Apr-13
+117,jamesrodriguez10,9,Low,1.28k,51.7m,1.4m,2.71%,363.9k,1.79b,Colombia,Jun-12
+118,krisjenner,5,Low,7.18k,51.6m,356.8k,0.69%,452.9k,2.56b,United States,May-12
+119,gucci,4,Low,0.16k,51.5m,115.1k,0.22%,72.4k,0.02b,Italy,Mar-11
+120,sachintendulkar,7,Low,1.57k,51.4m,800.4k,1.56%,664.5k,1.26b,India,Apr-15
+121,jannatzubair29,9,Low,2.33k,51.4m,1.3m,2.53%,944.3k,3.03b,India,Sep-15
+122,vancityreynolds,9,Low,1.09k,50.6m,1.4m,2.77%,1.2m,1.53b,United States,May-15
+123,jbalvin,4,Low,13.4k,50.4m,1.2k,0.00%,340.5k,0.02b,Colombia,Oct-11
+124,5-Minute Crafts GIRLY,4,Low,23.4k,50.1m,157.0k,0.31%,12.4k,3.67b,United States,Jan-12
+125,mahi7781,20,Low,0.11k,49.7m,4.1m,8.25%,3.1m,0.45b,India,Jun-14
+126,vanessahudgens,6,Low,4.64k,49.6m,633.9k,1.28%,292.9k,2.94b,United States,Dec-12
+127,toni.kr8s,6,Low,1.29k,49.5m,597.2k,1.21%,533.5k,0.77b,Germany,Jan-15
+128,hrithikroshan,10,Low,0.94k,49.4m,1.6m,3.24%,1.6m,1.50b,India,Jun-13
+129,rkive,64,High,0.04k,49.3m,14.9m,30.22%,3.1m,0.60b,South Korea,Nov-21
+130,iamsrk,8,Low,0.90k,49.3m,1.2m,2.43%,1.4m,1.08b,India,Oct-13
+131,teddysphotos,6,Low,2.60k,49m,715.5k,1.46%,181.1k,1.86b,United Kingdom,Jun-12
+132,liverpoolfc,5,Low,35.5k,49m,346.7k,0.71%,162.9k,12.31b,United Kingdom,Jun-12
+133,shahidkapoor,9,Low,1.55k,48.3m,1.3m,2.69%,780.0k,2.02b,India,Sep-13
+134,luissuarez9,7,Low,1.26k,48m,801.8k,1.67%,414.8k,1.01b,Uruguay,Aug-14
+135,maisa,6,Low,2.22k,48m,553.0k,1.15%,294.1k,1.23b,Brazil,Dec-13
+136,ranveersingh,8,Low,0.028k,47.6m,1.0m,2.10%,299.3k,0.03b,India,Sep-14
+137,dovecameron,10,Low,0.52k,47.4m,1.6m,3.38%,841.4k,0.83b,United States,May-12
+138,dior,4,Low,14.2k,46.9m,88.8k,0.19%,63.6k,1.26b,France,Sep-13
+139,harrystyles,23,Low,0.72k,46.7m,4.7m,10.06%,2.9m,3.38b,United Kingdom,May-12
+140,norafatehi,9,Low,2.82k,46.7m,1.4m,3.00%,727.5k,3.95b,India,Aug-13
+141,thenotoriousmma,8,Low,5.11k,46.4m,1.1m,2.37%,311.5k,5.62b,Ireland,Jun-13
+142,varundvn,8,Low,2.15k,46.2m,1.1m,2.38%,640.5k,2.37b,India,Dec-12
+143,nikefootball,5,Low,2.72k,46m,431.2k,0.94%,199.8k,1.17b,United States,Feb-12
+144,rohitsharma45,14,Low,1.28k,45.7m,2.5m,5.47%,2.1m,3.20b,India,Jul-12
+145,gusttavolima,5,Low,3.37k,45.7m,475.1k,1.04%,303.9k,1.60b,Brazil,Feb-12
+146,kapilsharma,6,Low,1.17k,45.5m,736.4k,1.62%,624.5k,0.86b,India,Aug-14
+147,natgeotravel,4,Low,18.9k,45.5m,189.9k,0.42%,52.8k,3.59b,United States,Feb-12
+148,princessyahrini,4,Low,4.89k,45.4m,118.3k,0.26%,87.4k,0.58b,Singapore,Feb-12
+149,eminem,7,Low,0.976k,45m,768k,1.71%,131k,0.75b,United States,Jul-12
+150,ruben_onsu,4,Low,15.7k,44.9m,139.3k,0.31%,49.1k,2.19b,Indonesia,Mar-12
+151,worldstar,4,Low,125k,44.9m,157.4k,0.35%,84.4k,19.68b,United States,Jan-14
+152,zidane,8,Low,0.548k,44.8m,1.1m,2.46%,532.7k,0.60b,Spain,Jun-14
+153,jenniferaniston,23,Low,0.18k,44.7m,4.6m,10.29%,731.0k,0.83b,United States,Sep-19
+154,brunamarquezine,7,Low,3.18k,44.6m,969.7k,2.17%,444.2k,3.08b,Brazil,Jun-11
+155,buzzfeedtasty,3,Low,17.9k,44.3m,65.1k,0.15%,7.7k,1.17b,United States,Jul-15
+156,prattprattpratt,7,Low,1.02k,44.2m,813.5k,1.84%,363.8k,0.83b,United States,Feb-12
+157,bmw,4,Low,13.2k,43.5m,231.3k,0.53%,76.5k,3.05b,Germany,Apr-12
+158,nickyjampr,5,Low,11.5k,43.2m,381.6k,0.88%,139.3k,4.39b,United States,May-12
+159,andresiniesta8,4,Low,2.58k,43.1m,250.8k,0.58%,161.7k,0.65b,Spain,Aug-13
+160,parineetichopra,5,Low,1.55k,42.9m,505.7k,1.18%,246.9k,0.78b,India,Oct-14
+161,natashawilona12,5,Low,1.73k,42.8m,486.5k,1.14%,227.7k,0.84b,Indonesia,Apr-13
+162,khabib_nurmagomedov,6,Low,4.45k,42.8m,685.1k,1.60%,220.7k,3.05b,UAE,Dec-12
+163,badbunnypr,47,High,0.002k,42.1m,9.6m,22.80%,5.6m,0.02b,Mexico,Jul-12
+164,blakelively,8,Low,0.237k,41.8m,1.1m,2.63%,212k,0.26b,United States,Jul-14
+165,marinaruybarbosa,6,Low,1.79k,41.3m,586.4k,1.42%,315k,1.05b,Brazil,Jan-12
+166,charlidamelio,22,Low,0.45k,41.2m,4.2m,10.19%,200k,1.89b,United States,Jun-12
+167,barackobama,8,Low,1.14k,41.2m,1.1m,2.67%,411.5k,1.25b,United States,Sep-11
+168,wesleysafadao,4,Low,9.96k,40.9m,256.1k,0.63%,50k,2.55b,Brazil,Feb-12
+169,nancyajram,5,Low,4.25k,40.8m,390.4k,0.96%,208.0k,1.66b,France,Nov-12
+170,chrissyteigen,6,Low,5.96k,40.7m,623.1k,1.53%,162.1k,3.71b,United States,Mar-12
+171,simonemendes,5,Low,5.7k,40.6m,420.0k,1.03%,222.9k,2.39b,Brazil,May-12
+172,tigerjackieshroff,8,Low,2.74k,40.5m,1.1m,2.72%,422.9k,3.01b,India,Jan-14
+173,disney,4,Low,9.74k,40.3m,185.2k,0.46%,132.0k,1.80b,United States,Jan-13
+174,antogriezmann,7,Low,1.37k,39.8m,865k,2.17%,20.6k,1.19b,Spain,Dec-12
+175,caradelevingne,7,Low,2.91k,39.8m,790.2k,1.99%,181.0k,2.30b,United States,Apr-11
+176,wizkhalifa,5,Low,0.007k,39.6m,398.7k,1.01%,115.7k,0.00b,United States,Jun-11
+177,mercedesbenz,4,Low,19.6k,39.4m,197.9k,0.50%,64.6k,3.88b,British Virgin Islands,Feb-12
+178,mariliamendoncacantora,8,Low,1.55k,39.2m,1.0m,2.55%,818.6k,1.55b,Brazil,Dec-12
+179,lunamaya,3,Low,5.62k,39.1m,145.4k,0.37%,58.6k,0.82b,Indonesia,Feb-11
+180,paollaoliveirareal,5,Low,5.66k,38.9m,367.8k,0.95%,192.3k,2.08b,Brazil,Sep-11
+181,anushkasen0408,6,Low,6.52k,38.9m,695.4k,1.79%,658.3k,4.53b,India,Jan-15
+182,gisel_la,4,Low,11.6k,38.9m,150.5k,0.39%,33.4k,1.75b,Indonesia,Apr-11
+183,hm,3,Low,0.389k,38.5m,88.4k,0.23%,22.4k,0.03b,Sweden,Feb-12
+184,indiancricketteam,11,Low,17.7k,38.4m,1.7m,4.43%,130k,30.09b,India,May-15
+185,kimberly.loaiza,13,Low,0.678k,37.5m,2.1m,5.60%,256m,1.42b,United States,Jun-12
+186,raisa6690,4,Low,5.16k,37.4m,232.2k,0.62%,97.4k,1.20b,Indonesia,Aug-11
+187,luansantana,4,Low,2.45k,37.2m,193.3k,0.52%,82.6k,0.47b,Brazil,Jul-11
+188,marvelstudios,6,Low,5.44k,37.2m,594.2k,1.60%,555.9k,3.23b,United States,Jul-16
+189,ivetesangalo,4,Low,9.25k,37.1m,226.4k,0.61%,121.1k,2.09b,Brazil,Nov-11
+190,laudyacynthiabella,4,Low,0.066k,36.9m,172.8k,0.47%,2.4k,0.01b,Indonesia,Apr-11
+191,iambeckyg,6,Low,0.525k,36.5m,623.8k,1.71%,464.7k,0.33b,United States,Dec-11
+192,nickjonas,6,Low,2.85k,35.6m,719.6k,2.02%,467.7k,2.05b,United States,Jul-12
+193,adidasfootball,5,Low,3.71k,35.6m,543k,1.53%,60k,2.01b,Germany,Nov-13
+194,nattinatasha,5,Low,0.347k,35.2m,518.1k,1.47%,285.9k,0.18b,United States,Aug-12
+195,shaymitchell,6,Low,6.67k,35m,732.4k,2.09%,247.5k,4.89b,United States,Mar-11
+196,adidasoriginals,3,Low,0.433k,34.1m,136.2k,0.40%,66.8k,0.06b,United Kingdom,Sep-11
+197,sonamkapoor,4,Low,5.24k,34.1m,264.7k,0.78%,209.2k,1.39b,India,May-12
+198,addisonraee,8,Low,0.32k,34m,1.1m,3.24%,210.4k,0.35b,United States,Feb-13
+199,danbilzerian,14,Low,1.37k,29.8m,2.0m,6.71%,1.2m,2.74b,United States,May-12
+200,colesprouse,11,Low,1.10k,29.1m,1.5m,5.15%,234k,1.65b,United States,May-14
